@@ -1,11 +1,12 @@
-### Olá eu sou o leonardo
+# Olá meu nome é leonardo
+## Sou um developer Back-end Com foco em Golang
+![Cringe](https://img.shields.io/badge/Pitou-Lover-pink)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-Enjoyer-brightgreen?logo=Vivaldi&logoColor=%20%23ef3939&label=Vivaldi&labelColor=%20%23ef30000&color=FCFAFA)
+
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=leonovo21&show_icons=true&theme=dark&line_height=25count)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonovo21&layout=donut&theme=dark" height="194em">
 <img src="https://streak-stats.demolab.com/?user=leonovo21&theme=dark" width="790em">
-## Developer Back-end Com foco em Golang
 
-![Vivaldi](https://img.shields.io/badge/Vivaldi-Enjoyer-brightgreen?logo=Vivaldi&logoColor=%20%23ef3939&label=Vivaldi&labelColor=%20%23ef30000&color=FCFAFA)
-![Cringe](https://img.shields.io/badge/Pitou-Lover-pink)
 
 ## Tecnologias que tenho mais proficiência
 <div style="display: inline_block"><br/>
