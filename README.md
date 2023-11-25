@@ -6,7 +6,6 @@
 )
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonovo21&show_icons=true&theme=apprentice)
-![PitoPicture](https://uploads.spiritfanfiction.com/historias/capitulos/202105/origem-neferpitou-hunterxhunter-22382477-280520211114.jpg)
 
 ## Tecnologias Conhecidas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonovo21&layout=compact)
