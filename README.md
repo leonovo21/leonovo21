@@ -1,16 +1,18 @@
-### Hi there 👋
+### Apenas the code king
 
-<!--
-**leonovo21/leonovo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Vivaldi](https://img.shields.io/badge/Vivaldi-Enjoyer-brightgreen?logo=Vivaldi&logoColor=%20%23ef3939&label=Vivaldi&labelColor=%20%23ef30000&color=FCFAFA
+)
+![Cringe](https://img.shields.io/badge/Pitou-Lover-pink
+)
 
-Here are some ideas to get you started:
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonovo21&show_icons=true&theme=apprentice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias Conhecidas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonovo21&layout=compact)
+<div style="display: inline_block"><br/>
+    <img align="center"alt="html5"src= "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+    <img align="center"alt="html5"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img align="center"alt="html5"src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center"alt="html5"src= "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+     <img align="center"alt="html5"src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
