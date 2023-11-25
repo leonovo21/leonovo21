@@ -1,7 +1,6 @@
 ### Olá eu sou o leonardo
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=leonovo21&show_icons=true&theme=dark&line_height=25count)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonovo21&layout=donut&theme=dark)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonovo21&layout=donut&theme=midnight-purple" height="194em">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leonovo21&theme=dark)](https://git.io/streak-stats)
 ## Developer Back-end Com foco em Golang
 
