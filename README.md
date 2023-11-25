@@ -1,7 +1,7 @@
 ### Olá eu sou o leonardo
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=leonovo21&show_icons=true&theme=dark&line_height=25count)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonovo21&layout=donut&theme=midnight-purple" height="194em">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leonovo21&theme=dark)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=leonovo21&theme=dark" width="790em">
 ## Developer Back-end Com foco em Golang
 
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-Enjoyer-brightgreen?logo=Vivaldi&logoColor=%20%23ef3939&label=Vivaldi&labelColor=%20%23ef30000&color=FCFAFA)
