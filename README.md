@@ -4,8 +4,9 @@
 )
 ![Cringe](https://img.shields.io/badge/Pitou-Lover-pink
 )
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonovo21&show_icons=true&theme=apprentice)
+
 ![PitoPicture](https://avatars.githubusercontent.com/u/136392042?v=4)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonovo21&show_icons=true&theme=apprentice)
 
 ## Tecnologias Conhecidas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonovo21&layout=compact)
