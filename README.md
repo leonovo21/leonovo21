@@ -1,12 +1,12 @@
 ### Apenas the code king
-
+![Header](./[banner.png])
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-Enjoyer-brightgreen?logo=Vivaldi&logoColor=%20%23ef3939&label=Vivaldi&labelColor=%20%23ef30000&color=FCFAFA
 )
 ![Cringe](https://img.shields.io/badge/Pitou-Lover-pink
 )
-
-![Language Stats](https://github-readme-stats.vercel.app/api?username=leonovo21&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=27272a&hide_border=true&show_icons=true)
+![Git Stats](https://github-readme-stats.vercel.app/api?username=leonovo21&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=27272a&hide_border=true&show_icons=true)
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonovo21&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leonovo21&theme=dark)](https://git.io/streak-stats)
 
 
 ## Tecnologias Conhecidas
@@ -18,3 +18,4 @@
      <img align="center"alt="html5"src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
+![iamge](https://static.wikia.nocookie.net/hxh/images/d/dd/043714d073b4b0bc4ce17bf94f559244.jpg/revision/latest?cb=20200617225645&path-prefix=pt)
